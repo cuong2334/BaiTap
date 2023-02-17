@@ -1,0 +1,4 @@
+﻿  bt10.cpp
+C:\Users\mind\Desktop\Cpp\bt10\bt10.cpp(60): warning C4715: 'songay': not all control paths return a value
+C:\Users\mind\Desktop\Cpp\bt10\bt10.cpp(34): warning C4715: 'hople': not all control paths return a value
+  bt10.vcxproj -> C:\Users\mind\Desktop\Cpp\bt10\Debug\bt10.exe

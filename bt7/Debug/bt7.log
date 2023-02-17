@@ -1,0 +1,3 @@
+﻿  bt7.cpp
+C:\Users\mind\Desktop\Cpp\bt7\bt7.cpp(34,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  bt7.vcxproj -> C:\Users\mind\Desktop\Cpp\bt7\Debug\bt7.exe

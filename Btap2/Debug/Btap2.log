@@ -1,0 +1,7 @@
+﻿  Btap2.cpp
+C:\Users\mind\Desktop\Cpp\Btap2\Constants.h(11,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mind\Desktop\Cpp\Btap2\Btap2.cpp(19,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mind\Desktop\Cpp\Btap2\Btap2.cpp(23,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mind\Desktop\Cpp\Btap2\Btap2.cpp(28,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mind\Desktop\Cpp\Btap2\Btap2.cpp(32,86): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Btap2.vcxproj -> C:\Users\mind\Desktop\Cpp\Btap2\Debug\Btap2.exe

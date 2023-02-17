@@ -1,0 +1,4 @@
+﻿  bt9.cpp
+C:\Users\mind\Desktop\Cpp\bt9\bt9.cpp(79): warning C4715: 'ngaymax': not all control paths return a value
+C:\Users\mind\Desktop\Cpp\bt9\bt9.cpp(41): warning C4715: 'hople': not all control paths return a value
+  bt9.vcxproj -> C:\Users\mind\Desktop\Cpp\bt9\Debug\bt9.exe

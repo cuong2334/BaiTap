@@ -1,0 +1,4 @@
+﻿  bt11.cpp
+C:\Users\mind\Desktop\Cpp\bt11\bt11.cpp(73): warning C4715: 'songay': not all control paths return a value
+C:\Users\mind\Desktop\Cpp\bt11\bt11.cpp(40): warning C4715: 'kiemtra': not all control paths return a value
+  bt11.vcxproj -> C:\Users\mind\Desktop\Cpp\bt11\Debug\bt11.exe
